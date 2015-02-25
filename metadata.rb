@@ -4,8 +4,7 @@ maintainer_email 'svanzee@caringbridge.org'
 license          'All rights reserved'
 description      'Installs/Configures role-mongodb-shard2'
 long_description 'Installs/Configures role-mongodb-shard2'
-version          '0.1.0'
+version          '0.1.1'
 
 depends 'mongodb', '0.16.1'
 depends 'yum'
-
